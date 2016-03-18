@@ -1,0 +1,24 @@
+associative_level: 1 Cache_Size_L1: 16384 Cache_Size_L2: 262144
+Miss 0
+Hits L1 0
+Hits L2 0
+Read 0
+Miss_Rate -nan % 
+Hit latency L1 0
+Hit latency L2 0
+associative_level: 1 Cache_Size_L1: 16384 Cache_Size_L2: 262144
+Miss 0
+Hits L1 0
+Hits L2 0
+Read 0
+Miss_Rate -nan % 
+Hit latency L1 0
+Hit latency L2 0
+associative_level: 1 Cache_Size_L1: 16384 Cache_Size_L2: 262144
+Miss 0
+Hits L1 0
+Hits L2 0
+Read 0
+Miss_Rate -nan % 
+Hit latency L1 0
+Hit latency L2 0
